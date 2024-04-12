@@ -1,0 +1,21 @@
+.About{
+    margin-top: 10px;
+    margin-bottom: 3px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.About h1{
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color:rgb(30, 30, 167);
+}
+
+.About p{
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:rgb(46, 45, 45);
+}
